@@ -7,12 +7,11 @@ This repository will accept PRs related to coding tasks of FOSS Weekend.
 ### Instructions:
 
 - Solve tasks during the contest duration only.
-- Make a PR with the screenshot of the Standings, displaying your username and rank at that point.
+- Make a PR after the contest, with the screenshot of the Standings, displaying your username, number of problems solved and rank at that point.
 - Send pull requests from new branch, not from master branch of your fork.
-- Rename the screenshot as EnrollmentNumber_taskName.
+- Rename the screenshot as EnrollmentNumber.
 - **Do not send solution code.**
-- Send seperate pull requests for each issue, one PR should contain screenshot related to only one issue.
-- Make sure your commits and pull requests are well structured, fomat for PR is => "Issue #x Solved taskName", where taskName is A/B/C/D/E/F/G. 
+- Make sure your commits and pull requests are well structured, fomat for PR is => "Issue #x Solved". 
 - Try to keep commmit messages concise and meaningful.
 
 
