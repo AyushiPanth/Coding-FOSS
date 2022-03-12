@@ -12,7 +12,7 @@ This repository will accept PRs related to coding tasks of FOSS Weekend.
 - Rename the screenshot as EnrollmentNumber_taskName.
 - **Do not send solution code.**
 - Send seperate pull requests for each issue, one PR should contain screenshot related to only one issue.
-- Make sure your commits and pull requests are well structured, fomat for PR is => "Issue #x Solved task taskName", where taskName is A/B/C/D/E/F/G. 
+- Make sure your commits and pull requests are well structured, fomat for PR is => "Issue #x Solved taskName", where taskName is A/B/C/D/E/F/G. 
 - Try to keep commmit messages concise and meaningful.
 
 
